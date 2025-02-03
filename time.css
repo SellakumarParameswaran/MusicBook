@@ -1,0 +1,25 @@
+.ti{
+    background: url('https://images.pexels.com/photos/745365/pexels-photo-745365.jpeg?auto=compress&cs=tinysrgb&w=600');
+
+
+    margin: 20px;
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    justify-content: center;
+    justify-content: space-evenly;
+   margin-left: 40px;
+    display: flex;
+    color: white;
+
+
+}
+.ti>h2{
+    font-size: 40px;
+    margin-right: 700px;
+}
+/* Time.css */
+.time-text {
+    font-size: 84px; /* Adjust the font size as needed */
+  }
+  

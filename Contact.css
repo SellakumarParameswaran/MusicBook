@@ -1,0 +1,10 @@
+.ner{
+    display: flex;
+    justify-content: center;
+    background-color: black;
+    color: white;
+   justify-content: space-between;
+   font-size: 23px;
+   padding: 12px;
+   
+}

@@ -1,0 +1,19 @@
+/* ContactPage.css */
+
+/* Center the form horizontally */
+.feed {
+    display:flex;
+   color: white;
+  
+    justify-content: center;
+    font-size: 23px;
+    background-color:black;
+  
+    justify-content: space-between;
+padding: 12px;
+  }
+
+  
+ 
+  
+  

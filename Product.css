@@ -1,0 +1,26 @@
+.product{
+    font-size: 2rem;
+    display: flex;
+   margin-bottom: 80px;
+   justify-content: space-between;
+  
+   color:black;
+  
+  
+    
+}
+.pimgtop{
+    margin-top: 80px;
+    width: 550px;
+    height: 280px;
+}
+.pimgtop:hover{
+  transform: scale(1.43);
+}
+
+
+
+ 
+  .button{
+    display: block;
+  }

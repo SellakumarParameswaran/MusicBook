@@ -1,0 +1,72 @@
+
+  
+  .create-account-btn {
+      background-color: #28a745;
+      color: #fff;
+      font-size: 2rem;
+      cursor: pointer;
+      transition: background-color 0.3s;
+    }
+    
+    .create-account-btn:hover {
+      background-color: #218838;
+    }
+    
+  
+  .login-form {
+   
+   display: flex;
+      width: 1509px;
+      padding: 30px;
+      background: url(../src/Assets/piano.jpg);
+      border-radius: 8px;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    }
+    
+    .login-form h2 {
+      margin-bottom: 20px;
+      font-size: 3rem;
+      text-align: center;
+      margin-right: 20px;
+    }
+    
+    .login-form input[type="text"],
+    .login-form input[type="password"],
+    .login-form button {
+      width: 100%;
+      padding: 10px;
+      margin-bottom: 10px;
+      border: 1px solid #ccc;
+      border-radius: 4px;
+      margin-right: 20px;
+      box-sizing: border-box;
+    }
+    
+    .login-form button {
+      background-color: #007bff;
+      color: #fff;
+      font-size: 2rem;
+      cursor: pointer;
+      transition: background-color 0.3s;
+      margin-right: 20px;
+    }
+    
+    .login-form button:hover {
+      background-color: #0056b3;
+    }
+
+    .pic{
+      background: url(../src/Assets/piano.jpg);
+      height: 100vh;
+      background-position: center;
+      background-size: cover;
+      background-repeat: no-repeat;
+      box-shadow: 100px 0 0 2000px  rgba(0, 0, 0, 0);
+     
+    }
+    .Login>h4{
+      color: white;
+      font-size: 4rem;
+      text-align: center;
+      margin-top: 200px;
+    }
